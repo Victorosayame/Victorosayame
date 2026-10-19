@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Osayame Victor 👋
 
-<!--
-**Victorosayame/Victorosayame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React, Next.js & TypeScript
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate focused on building practical, responsive web applications and creating useful digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary focus is frontend development with React and Next.js. I'm also expanding my full-stack skills by building applications involving backend APIs, authentication, database design, and application architecture.
+
+### 🛠️ Technologies
+
+- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js, NestJS (learning and building)
+- **Databases:** PostgreSQL, MongoDB
+- **ORM:** Prisma
+- **Tools:** Git, GitHub, AI-assisted development tools
+
+### 🚀 Projects I'm Building
+
+- **CoinPulse:** A cryptocurrency dashboard with real-time data, charts, and trading analytics.
+- **Bishop Portfolio CMS:** A portfolio website with a custom admin dashboard and content management features.
+- **Developer Events Dashboard:** A platform for discovering technology events and viewing event details.
+
+### 🌱 Currently Improving
+
+- Frontend engineering and responsive UI development
+- Backend development with NestJS
+- Database design, API validation, and security
+- Testing, debugging, and maintainable code
+- Using AI tools responsibly to support development and problem-solving
+
+### 🤝 Let's Connect
+
+I'm interested in frontend development opportunities, collaborating with other developers, and building useful products.
+
+- GitHub: [@Victorosayame](https://github.com/Victorosayame)
+- Portfolio: 
+- LinkedIn: Add your LinkedIn URL here
+
